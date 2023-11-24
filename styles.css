@@ -4,7 +4,6 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-image: url('pexels-photo-4622890.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -85,7 +84,7 @@ main {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 5em;
 }
 
 .column img {
