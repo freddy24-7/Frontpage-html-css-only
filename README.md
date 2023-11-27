@@ -1,7 +1,5 @@
-Here's an example `README.md` file that describes the technologies used in the provided code:
 
 ---
-
 # Lucky Shrub - Garden Design & Nursery Website
 
 This repository contains the source code for the website of Lucky Shrub, a garden design and nursery business based in Tucson, Arizona. The website is designed to showcase our services and products in garden design and plant nursery.
