@@ -31,5 +31,3 @@ This repository contains the source code for the website of Lucky Shrub, a garde
 The website serves as an online presence for Lucky Shrub, allowing customers to learn about our services, view our product range, and contact us. The website's intuitive navigation and layout make it easy for users to find information about garden designs, nursery offerings, and our team.
 
 ---
-
-**Note**: Replace the sections with more specific information about your project as needed. This template is a general guide based on the provided code and may need adjustments to fit the exact nature of your project.
